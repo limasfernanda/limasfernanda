@@ -4,7 +4,7 @@
     <span> Fernanda Soares Lima</span>
 </h1>
 
-  Profissional iniciante na carreira de Data Analytics, atualmente concluindo o [Google Data Analytics Professional Certificate](https://www.coursera.org/programs/data-analytics-a1clj/professional-certificates/analise-de-dados-do-google?collectionId=9rnQT), [Potência Tech Ciência de Dados](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?order=undefined&page=1&search=&tab=path&track_id=fd133067-6f2b-47c8-9763-edd87ec6b1cc) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python?tab=path) da DIO. 
+  Profissional iniciante na carreira de Data Analytics, atualmente concluindo o [Google Data Analytics Professional Certificate](https://www.coursera.org/programs/data-analytics-a1clj/professional-certificates/analise-de-dados-do-google?collectionId=9rnQT) oferecido pela Coursera, [Potência Tech Ciência de Dados](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?order=undefined&page=1&search=&tab=path&track_id=fd133067-6f2b-47c8-9763-edd87ec6b1cc) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python?tab=path) da DIO. 
   
   Até Novembro viso ter sólidas habilidades análiticas; Reconhecimento de padrões; Banco de dados relacional e SQL; Sólidas habilidades de visualização de dados; Proficiência em planilhas, Pyhton para ciência de Dados, SQL, R, Power BI e Tableau; Habilidades de solução de problemas, pesquisa e comunicação.😉🚀.
 
@@ -31,5 +31,9 @@
 
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=dio-powertech-sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/dio-powertech-sistema-bancario)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=ecommerce_LaLucky&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/ecommerce_LaLucky)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=garage_ElDre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/garage_ElDre)
 
 
