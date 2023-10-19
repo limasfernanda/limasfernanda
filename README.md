@@ -9,11 +9,17 @@ Possuo graduação em Automação Industrial pelo Instituto Federal da Paraíba 
 Profissional iniciante na carreira de Data Analytics, conclui o [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J3YD76ZEFHNP) oferecido pela Coursera, [Potência Tech Ciência de Dados](https://www.dio.me/certificate/C9A9ADCB) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://www.dio.me/certificate/EB403433) da DIO. 
   
 Sólidas habilidades analíticas; 
+
 Reconhecimento de padrões; 
+
 Banco de dados relacional e SQL; 
+
 Sólidas habilidades de visualização de dados; 
+
 Proficiência em planilhas, Pyhton para Ciência de Dados, SQL, R, Power BI e Tableau; 
+
 Noções de AWS e Machine Learning;
+
 Habilidades de solução de problemas, pesquisa e comunicação😉.
 
 ---
@@ -25,8 +31,8 @@ Habilidades de solução de problemas, pesquisa e comunicação😉.
 
 ### Habilidades
 ![Matlab](https://camo.githubusercontent.com/47f4fef83faf2ff7b063bd9aa85a835806d69dcafbab01c90baf4c26dd633812/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d41544c41422d3030373641383f7374796c653d666c61742d737175617265266c6f676f3d6d617468776f726b73266c6f676f436f6c6f723d7768697465)
-![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://camo.githubusercontent.com/762baffd5636c0bd1f602cb871372f80d1ac4aba6ca1f4fc51bf2fdbe4113018/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465))
-![MySQL]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465))
+![Python](https://camo.githubusercontent.com/762baffd5636c0bd1f602cb871372f80d1ac4aba6ca1f4fc51bf2fdbe4113018/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+![MySQL](https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![Power BI](https://camo.githubusercontent.com/0bd96272d920a436c66e21fbc996ba2352bc793a12e52b0736c79c840cb95001/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666c61742d737175617265266c6f676f3d706f7765722d6269266c6f676f436f6c6f723d7768697465)
