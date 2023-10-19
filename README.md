@@ -14,9 +14,9 @@ Reconhecimento de padrões;
 
 Banco de dados relacional e SQL; 
 
-Sólidas habilidades de visualização de dados; 
+Visualização de dados com Power BI e Tableau; 
 
-Proficiência em planilhas, Pyhton para Ciência de Dados, SQL, R, Power BI e Tableau; 
+Proficiência em planilhas, Big Query, Pyhton para Ciência de Dados, SQL e  R; 
 
 Noções de AWS e Machine Learning;
 
