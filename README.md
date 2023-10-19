@@ -4,10 +4,17 @@
     <span> Fernanda Soares Lima</span>
 </h1>
 
-  Profissional iniciante na carreira de Data Analytics, atualmente concluindo o [Google Data Analytics Professional Certificate](https://www.coursera.org/programs/data-analytics-a1clj/professional-certificates/analise-de-dados-do-google?collectionId=9rnQT) oferecido pela Coursera, [Potência Tech Ciência de Dados](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python?order=undefined&page=1&search=&tab=path&track_id=fd133067-6f2b-47c8-9763-edd87ec6b1cc) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python?tab=path) da DIO. 
+Possuo graduação em Automação Industrial pelo Instituto Federal da Paraíba (2019) e mestrado em Engenharia Elétrica pelo Instituto Federal da Paraíba (2022). Trabalhei com projetos na área de processamento de sinais de voz, controle de sistemas dinâmicos. Atualmente voluntária do NASA Space Apps Challenge em João Pessoa. 🚀
+ 
+Profissional iniciante na carreira de Data Analytics, conclui o [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J3YD76ZEFHNP) oferecido pela Coursera, [Potência Tech Ciência de Dados](https://www.dio.me/certificate/C9A9ADCB) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://www.dio.me/certificate/EB403433) da DIO. 
   
-  Até Novembro viso ter sólidas habilidades análiticas; Reconhecimento de padrões; Banco de dados relacional e SQL; Sólidas habilidades de visualização de dados; Proficiência em planilhas, Pyhton para ciência de Dados, SQL, R, Power BI e Tableau; Habilidades de solução de problemas, pesquisa e comunicação.😉🚀.
-
+Sólidas habilidades analíticas; 
+Reconhecimento de padrões; 
+Banco de dados relacional e SQL; 
+Sólidas habilidades de visualização de dados; 
+Proficiência em planilhas, Pyhton para Ciência de Dados, SQL, R, Power BI e Tableau; 
+Noções de AWS e Machine Learning;
+Habilidades de solução de problemas, pesquisa e comunicação😉.
 
 ---
 
@@ -17,9 +24,18 @@
 
 
 ### Habilidades
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Matlab](https://camo.githubusercontent.com/47f4fef83faf2ff7b063bd9aa85a835806d69dcafbab01c90baf4c26dd633812/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d41544c41422d3030373641383f7374796c653d666c61742d737175617265266c6f676f3d6d617468776f726b73266c6f676f436f6c6f723d7768697465)
+![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://camo.githubusercontent.com/762baffd5636c0bd1f602cb871372f80d1ac4aba6ca1f4fc51bf2fdbe4113018/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465))
+![MySQL]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465))
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+![Power BI](https://camo.githubusercontent.com/0bd96272d920a436c66e21fbc996ba2352bc793a12e52b0736c79c840cb95001/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666c61742d737175617265266c6f676f3d706f7765722d6269266c6f676f436f6c6f723d7768697465)
+![Tableau](https://camo.githubusercontent.com/c50514f77bfe0e35b3b22206419e33a0a5be61d4ea8cb41f5720684db1a6f74c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666c61742d737175617265266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465)
+
+
+![AutoCAD](https://camo.githubusercontent.com/cdcee62238e3bf52690b0884791191abe3324601845b9ef340921e9e5b7db44e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4175746f4341442d3030373844373f7374796c653d666c61742d737175617265266c6f676f3d6175746f6465736b266c6f676f436f6c6f723d7768697465)
+![SolidWorks](https://camo.githubusercontent.com/97f2ebfa8a54d7aa19c53c5b2a3b24ea040fde734c4d3d046d7b0f782314ee4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f6c6964576f726b732d4646393930303f7374796c653d666c61742d737175617265266c6f676f3d736f6c6964776f726b73266c6f676f436f6c6f723d7768697465)
+
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -30,7 +46,9 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=limasfernanda&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=dio-powertech-sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/dio-powertech-sistema-bancario)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=APIGeocode&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/APIGeocode)
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=FinancialsBI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/FinancialsBI)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=ecommerce_LaLucky&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/ecommerce_LaLucky)
 
