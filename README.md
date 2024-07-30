@@ -24,76 +24,80 @@ Habilidades de solução de problemas, pesquisa e comunicação😉.
 
  Já fiz inúmeros testes de perfil e, dentre eles, um que gostei bastante foi o teste do [mindsight](https://mindsight.com.br/), que me permitiu encontrar minhas forças que estão abaixo.
 
-<img alt="Capacidade Analítica" src="https://img.shields.io/badge/Capacidade%20Anal%C3%ADtica-1?color=%23cdb20e
-" />
-<img alt="Pensamento Conceitual" src="https://img.shields.io/badge/Pensamento%20Conceitual-2?color=%23082ba0
-" />
-<img alt="Planejamento e Organização" src="https://img.shields.io/badge/Planejamento%20e%20Organiza%C3%A7%C3%A3o-3?color=%23a0086b
-" />
+<img alt="Capacidade Analítica" src="https://img.shields.io/badge/Capacidade%20Anal%C3%ADtica-1?color=%23cdb20e" />
+<img alt="Pensamento Conceitual" src="https://img.shields.io/badge/Pensamento%20Conceitual-2?color=%23082ba0" />
+<img alt="Planejamento e Organização" src="https://img.shields.io/badge/Planejamento%20e%20Organiza%C3%A7%C3%A3o-3?color=%23a0086b" />
 <img alt="Pensamento criativo" src="https://img.shields.io/badge/Pensamento%20criativo-3?color=%2308a084" />
-<img alt="Consideração pelos outros" src="https://img.shields.io/badge/Considera%C3%A7%C3%A3o%20pelos%20outros-3?color=%23a00827
-" />
-<img alt="Influência" src="https://img.shields.io/badge/Influ%C3%AAncia-3?color=%233ea008
-" />
+<img alt="Consideração pelos outros" src="https://img.shields.io/badge/Considera%C3%A7%C3%A3o%20pelos%20outros-3?color=%23a00827" />
+<img alt="Influência" src="https://img.shields.io/badge/Influ%C3%AAncia-3?color=%233ea008" />
 
 
 ### Hard Skills
 
 #### Linguagens
 
-
+<p>
 <img alt="Matlab" src="https://img.shields.io/badge/Matlab-1?color=%23eb732d" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="R" src="https://img.shields.io/badge/R-3?color=%23fe0101" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-4?color=%237a69bf" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4?color=%23504f96" />
-  <img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-
-
+<img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+</p>
+<p>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-   <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
- 
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
+ </p>
 
 #### Bibliotecas
-
+<p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
 #### Gerenciamento de projetos
-
+<p>
  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-4A90E2?style=flat-square&logo=scrum&logoColor=white" />
   <img alt="Kanban" src="https://img.shields.io/badge/Kanban-F9A825?style=flat-square&logo=kanban&logoColor=white" />
+</p>
 
 #### Visualização de dados
+<p>
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
 
 #### Softwares Industriais
+<p>
   <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-0078D7?style=flat-square&logo=autodesk&logoColor=white" />
   <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-FF9900?style=flat-square&logo=solidworks&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
 
 #### Extras 
 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  
+  <p>
   <img alt="Bigquery" src="https://img.shields.io/badge/-BigQuery-01787C?style=flat-square&logo=Bigquery&logoColor=white" />
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-
+</p>
+  <p>
    <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
    <img alt="Canva" src="https://img.shields.io/badge/Canva-4165ec?style=flat-square&logo=canva&logoColor=white" />
+</p>
 
  <br>
  <br>
 
+<p>
   <img alt="Português (Nativo)" src="https://img.shields.io/badge/Português-Nativo-089e40?style=flat-square&logo=brazil&logoColor=white" />
   <img alt="English (Basic (a2)" src="https://img.shields.io/badge/English-Básico A2-blue?style=flat-square&logo=united-kingdom&logoColor=white" />
   <img alt="Español (Básico)" src="https://img.shields.io/badge/Español-Básico-yellow?style=flat-square&logo=spain&logoColor=white" />
-
----
+</p>
+<hr>
 
 ### Conecte-se comigo
 
