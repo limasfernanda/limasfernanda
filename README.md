@@ -1,26 +1,97 @@
+
+
 <h1>
     <!<a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Verrill_minimal_surface.jpg"></a 
     <span> Fernanda Soares Lima</span>
 </h1>
 
+## Sobre mim
+
+
 Possuo graduação em Automação Industrial pelo Instituto Federal da Paraíba (2019) e mestrado em Engenharia Elétrica pelo Instituto Federal da Paraíba (2022). Trabalhei com projetos na área de processamento de sinais de voz, controle de sistemas dinâmicos. Atualmente voluntária do NASA Space Apps Challenge em João Pessoa. 🚀
- 
-Profissional iniciante na carreira de Data Analytics, conclui o [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J3YD76ZEFHNP) oferecido pela Coursera, [Potência Tech Ciência de Dados](https://www.dio.me/certificate/C9A9ADCB) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://www.dio.me/certificate/EB403433) da DIO. 
-  
-Sólidas habilidades analíticas; 
 
-Reconhecimento de padrões; 
+ Foquei durante anos na carreira acadêmica, porém agora gostaria de trabalhar em uma empresa na área de dados. Finalizei o curso [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J3YD76ZEFHNP) oferecido pela Coursera, [Potência Tech Ciência de Dados](https://www.dio.me/certificate/C9A9ADCB) da DIO e [Santander Bootcamp Ciência de Dados com Python](https://www.dio.me/certificate/EB403433) da DIO. Atualmente ganhei uma bolsa de estudos pela WoMakersCode na trilha de Data Analytics. 
 
-Banco de dados relacional e SQL; 
 
-Visualização de dados com Power BI e Tableau; 
 
-Proficiência em planilhas, Big Query, Pyhton para Ciência de Dados, SQL e  R; 
-
-Noções de AWS e Machine Learning;
-
+Sólidas habilidades analíticas; Reconhecimento de padrões; 
 Habilidades de solução de problemas, pesquisa e comunicação😉.
+
+ ## Habilidades
+
+ ### Soft Skills
+
+ Já fiz inúmeros testes de perfil e, dentre eles, um que gostei bastante foi o teste do [mindsight](https://mindsight.com.br/), que me permitiu encontrar minhas forças que estão abaixo.
+
+<img alt="Capacidade Analítica" src="https://img.shields.io/badge/Capacidade%20Anal%C3%ADtica-1?color=%23cdb20e
+" />
+<img alt="Pensamento Conceitual" src="https://img.shields.io/badge/Pensamento%20Conceitual-2?color=%23082ba0
+" />
+<img alt="Planejamento e Organização" src="https://img.shields.io/badge/Planejamento%20e%20Organiza%C3%A7%C3%A3o-3?color=%23a0086b
+" />
+<img alt="Pensamento criativo" src="https://img.shields.io/badge/Pensamento%20criativo-3?color=%2308a084" />
+<img alt="Consideração pelos outros" src="https://img.shields.io/badge/Considera%C3%A7%C3%A3o%20pelos%20outros-3?color=%23a00827
+" />
+<img alt="Influência" src="https://img.shields.io/badge/Influ%C3%AAncia-3?color=%233ea008
+" />
+
+
+### Hard Skills
+
+#### Linguagens
+
+
+<img alt="Matlab" src="https://img.shields.io/badge/Matlab-1?color=%23eb732d" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/R-3?color=%23fe0101" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4?color=%237a69bf" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4?color=%23504f96" />
+  <img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+
+
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+   <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white" />
+ 
+
+#### Bibliotecas
+
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+#### Gerenciamento de projetos
+
+ <img alt="Scrum" src="https://img.shields.io/badge/Scrum-4A90E2?style=flat-square&logo=scrum&logoColor=white" />
+  <img alt="Kanban" src="https://img.shields.io/badge/Kanban-F9A825?style=flat-square&logo=kanban&logoColor=white" />
+
+#### Visualização de dados
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+
+#### Softwares Industriais
+  <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-0078D7?style=flat-square&logo=autodesk&logoColor=white" />
+  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-FF9900?style=flat-square&logo=solidworks&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+
+#### Extras 
+
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  
+  <img alt="Bigquery" src="https://img.shields.io/badge/-BigQuery-01787C?style=flat-square&logo=Bigquery&logoColor=white" />
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+
+   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+   <img alt="Canva" src="https://img.shields.io/badge/Canva-4165ec?style=flat-square&logo=canva&logoColor=white" />
+
+ <br>
+ <br>
+
+  <img alt="Português (Nativo)" src="https://img.shields.io/badge/Português-Nativo-089e40?style=flat-square&logo=brazil&logoColor=white" />
+  <img alt="English (Basic (a2)" src="https://img.shields.io/badge/English-Básico A2-blue?style=flat-square&logo=united-kingdom&logoColor=white" />
+  <img alt="Español (Básico)" src="https://img.shields.io/badge/Español-Básico-yellow?style=flat-square&logo=spain&logoColor=white" />
 
 ---
 
@@ -29,22 +100,6 @@ Habilidades de solução de problemas, pesquisa e comunicação😉.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/limasfernanda/)
 
 
-### Habilidades
-![Matlab](https://camo.githubusercontent.com/47f4fef83faf2ff7b063bd9aa85a835806d69dcafbab01c90baf4c26dd633812/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d41544c41422d3030373641383f7374796c653d666c61742d737175617265266c6f676f3d6d617468776f726b73266c6f676f436f6c6f723d7768697465)
-![Python](https://camo.githubusercontent.com/762baffd5636c0bd1f602cb871372f80d1ac4aba6ca1f4fc51bf2fdbe4113018/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
-![MySQL](https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-![Power BI](https://camo.githubusercontent.com/0bd96272d920a436c66e21fbc996ba2352bc793a12e52b0736c79c840cb95001/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666c61742d737175617265266c6f676f3d706f7765722d6269266c6f676f436f6c6f723d7768697465)
-![Tableau](https://camo.githubusercontent.com/c50514f77bfe0e35b3b22206419e33a0a5be61d4ea8cb41f5720684db1a6f74c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666c61742d737175617265266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465)
-
-
-![AutoCAD](https://camo.githubusercontent.com/cdcee62238e3bf52690b0884791191abe3324601845b9ef340921e9e5b7db44e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4175746f4341442d3030373844373f7374796c653d666c61742d737175617265266c6f676f3d6175746f6465736b266c6f676f436f6c6f723d7768697465)
-![SolidWorks](https://camo.githubusercontent.com/97f2ebfa8a54d7aa19c53c5b2a3b24ea040fde734c4d3d046d7b0f782314ee4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f6c6964576f726b732d4646393930303f7374796c653d666c61742d737175617265266c6f676f3d736f6c6964776f726b73266c6f676f436f6c6f723d7768697465)
-
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
 ### GitHub Stats
@@ -56,8 +111,5 @@ Habilidades de solução de problemas, pesquisa e comunicação😉.
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=FinancialsBI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/FinancialsBI)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=ecommerce_LaLucky&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/ecommerce_LaLucky)
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=limasfernanda&repo=garage_ElDre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/limasfernanda/garage_ElDre)
 
 
