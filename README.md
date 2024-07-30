@@ -23,14 +23,14 @@ Habilidades de solução de problemas, pesquisa e comunicação😉.
  ### Soft Skills
 
  Já fiz inúmeros testes de perfil e, dentre eles, um que gostei bastante foi o teste do [mindsight](https://mindsight.com.br/), que me permitiu encontrar minhas forças que estão abaixo.
-
+<p>
 <img alt="Capacidade Analítica" src="https://img.shields.io/badge/Capacidade%20Anal%C3%ADtica-1?color=%23cdb20e" />
 <img alt="Pensamento Conceitual" src="https://img.shields.io/badge/Pensamento%20Conceitual-2?color=%23082ba0" />
 <img alt="Planejamento e Organização" src="https://img.shields.io/badge/Planejamento%20e%20Organiza%C3%A7%C3%A3o-3?color=%23a0086b" />
 <img alt="Pensamento criativo" src="https://img.shields.io/badge/Pensamento%20criativo-3?color=%2308a084" />
 <img alt="Consideração pelos outros" src="https://img.shields.io/badge/Considera%C3%A7%C3%A3o%20pelos%20outros-3?color=%23a00827" />
 <img alt="Influência" src="https://img.shields.io/badge/Influ%C3%AAncia-3?color=%233ea008" />
-
+</p>
 
 ### Hard Skills
 
